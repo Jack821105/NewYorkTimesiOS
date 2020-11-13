@@ -7,13 +7,24 @@
 
 import UIKit
 
-class ViewController: UIViewController {
 
+
+class DetailViewController: UIViewController {
+    
+    let resultsDetail: Results? = nil
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-    }
+        
+        
+        
+        
+            
+        }
+        
 
-
+    
+    
 }
 
